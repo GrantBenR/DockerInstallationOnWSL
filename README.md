@@ -1,5 +1,5 @@
 # DockerInstallationOnWSL
-Installation instructions for docker on Ubuntu and Centos/Rocky Linux.
+Installation instructions for docker on Ubuntu and Centos/Rocky Linux Windows Subsystem for Linux (WSL) distros
 
 Ubuntu:
 ```bash
